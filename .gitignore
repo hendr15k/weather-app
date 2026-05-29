@@ -1,0 +1,28 @@
+# Built files
+*.apk
+*.aab
+*.ap_
+build/
+out/
+
+# Gradle
+.gradle/
+gradle-app.lock
+gradle.properties.local
+
+# IntelliJ
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Local config
+local.properties
+gradle.properties.local
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
