@@ -1,0 +1,2 @@
+-keepattributes *Annotation*
+-keep class com.hendr15k.weatherapp.data.model.** { *; }
